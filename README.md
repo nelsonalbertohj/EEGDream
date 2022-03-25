@@ -7,7 +7,7 @@ Steady State Visually Evoked Potential (SSVEP) have been widely used in creating
 
 # Research Report
 The following research report was produced for the final project in [Projects in the Science of Intelligence](https://cbmm.mit.edu/9-58/2021)
-[embed]https://github.com/nelsonalbertohj/EEGDream/blob/main/EEGDream_discovering_neural_patterns_in_SSVEP.pdf[/embed]
+See the following pdf for full [SSVEPNet and EEGDream research paper](https://github.com/nelsonalbertohj/EEGDream/blob/main/EEGDream_discovering_neural_patterns_in_SSVEP.pdf).
 
 Please, if using the algorithms developed in this repository, please cite me as:
 '''
