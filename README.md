@@ -10,15 +10,23 @@ The following research report was produced for the final project in [Projects in
 See the following pdf for full [SSVEPNet and EEGDream research paper](https://github.com/nelsonalbertohj/EEGDream/blob/main/EEGDream_discovering_neural_patterns_in_SSVEP.pdf).
 
 Please, if using the algorithms developed in this repository, please cite me as:
-'''
+```
 @inproceedings{nheegdream2021,
    author={Hidalgo, Nelson},
    year={2021},
    title={Discovering Novel Neural Patterns in Visually Evoked Potentials Through CNNs},
    booktitle={Preprint},
 }
-'''
+```
 
 # Dataset
 The dataset used for this project was produced by Masaki Nakanishi, Yijun Wang, Yu-Te Wang, and Tzyy-Ping Jung. A comparison study of canonical correlation analysis based methods for detecting steady-state visual evoked potentials. PloS one, 10(10):e0140703, 2015.
 It was made openly available in Kaggle at [ssvep-sandiego](https://www.kaggle.com/code/kerneler/starter-ssvep-sandiego-04d82b4d-d/data)
+
+# Environment Configuration
+The following dependencies versions were used in this project:
+
+```
+tensorflow                         2.7.0
+Python                             3.8.5
+```
